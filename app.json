@@ -1,4 +1,5 @@
 {
   "name": "Locate",
-  "displayName": "Locate"
+  "displayName": "Locate",
+  "bundleIdentifier": "org.reactjs.native.example.Locate"
 }
